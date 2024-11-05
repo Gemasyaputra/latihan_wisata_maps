@@ -12,7 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Latihan_wisata_bukittinggi"
         tools:targetApi="31">
-
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
 
